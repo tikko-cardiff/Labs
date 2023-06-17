@@ -1,2 +1,2 @@
-# CMM007-Labs
+# Labs
 All labs to be contained here
